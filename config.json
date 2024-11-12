@@ -1,0 +1,6 @@
+{
+    "appId": "com.batteryalarm.app",
+    "appName": "Battery Alarm",
+    "webDir": "www",
+    "bundledWebRuntime": false
+  }
